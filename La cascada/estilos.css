@@ -1,0 +1,85 @@
+body
+{
+    color: #ffffff;
+    background-image: url(fondo.jpeg);
+    background-size: cover;
+    margin: 0;
+    font-family: sans-serif;
+}
+.nav
+{
+    background-color:  #705817;
+}
+.nav-item:hover
+{
+    background-color: #55b46a;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #ffffff;
+    border-color: #473a0d;
+    background-color: #492d00;
+    margin: 0;
+}
+#uno
+{
+    position: relative;
+    width: 250px;
+    height: 300px;
+}
+#dos
+{
+    position: relative;
+    width: 250px;
+    height: 300px;
+}
+#tres
+{
+    position: relative;
+    width: 250px;
+    height: 300px;
+}
+#cuatro
+{
+    position: relative;
+    width: 250px;
+    height: 300px;
+}
+#cinco,#seis,#siete,#ocho
+{
+    position: relative;
+    width: 250px;
+    height: 300px;
+}
+.jumbotron
+{
+    background-color: #705817;
+    border-radius: 0;
+}
+.footer
+{
+    background-color: transparent
+}
+a {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+}
+.nav-tabs {
+    border-bottom: 1px solid #4e3510;
+}
+#header
+{
+    border-radius: 10px;
+}
+.info
+{
+    border-radius: 10px;
+}
+.cafe
+{
+    display:table;
+}
+.minh-100 {
+  height: auto;
+}
